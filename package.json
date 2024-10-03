@@ -1,0 +1,17 @@
+{
+  "name": "exercicio-crud",
+  "version": "1.0.0",
+  "description": "Projeto para resolução da atividade de back end ",
+  "main": "server.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SENAI",
+    "NodeJS",
+    "Javascript",
+    "Back-end"
+  ],
+  "author": "João Vitor Porto Sales",
+  "license": "MIT"
+}
